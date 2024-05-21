@@ -1,0 +1,12 @@
+# C Program to Calculate Square of a Number using Functions
+# Python Program to calculate square of a given number
+
+# Function to calculate the square of a number
+def calculate_square(number):
+    return number * number
+
+# Sample usage for calculating planetary positions
+planetary_position = 123456789  # Replace with the actual planetary position
+square_of_position = calculate_square(planetary_position)
+
+print("The square of the planetary position is:", square_of_position)
